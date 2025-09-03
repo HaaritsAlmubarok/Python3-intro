@@ -1,6 +1,6 @@
 print(f"\n")
 print(" ==== NILAI RENGKING ====")
-import rengking
+import Tugas.rengking.rengking as rengking
 
 nilai = [75, 90, 60, 88, 100, 55]
 
