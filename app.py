@@ -1,1 +1,1 @@
-print("BELAJAR DIT DASAR")
+print("BELAJAR GIT DASAR")
